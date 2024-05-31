@@ -4,7 +4,7 @@
     <title>BOOKSHELF</title>
 </head>
 <body>
-<h1>BOOKSHELF</h1>
+<h1>BOOKSHELF</h1><hr>
 <h4>Российские книги</h4>
 <#list books as book>
     <div>
