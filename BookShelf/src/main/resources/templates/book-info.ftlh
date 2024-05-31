@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +9,7 @@
 <h4>Подробная информация о книге</h4>
 <b>Название книги:</b>${book.nameBook}<br>
 <b>Автор:</b>${book.author}<br>
-<b>Год выпуска:</b>${year_of_release}<br>
+<b>Год выпуска:</b>${book.year_of_release}<br>
 <b>Описание книги:</b>${book.description}<br>
 <b>Имя пользователя:</b>${book.user}<br>
 <hr>

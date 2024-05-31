@@ -12,7 +12,7 @@
     </div>
 </#list>
 <hr>
-<h3>Доюавить новую книгу</h3>
+<h3>Добавить новую книгу</h3>
 <form action="/book/create"method="post">
     Название книги:<input type="text" name="nameBook"/><br><br>
     Автор книги:<input type="text" name="author"/><br><br>
