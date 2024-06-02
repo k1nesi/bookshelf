@@ -17,9 +17,9 @@
     Название книги:<input type="text" name="nameBook"/><br><br>
     Автор книги:<input type="text" name="author"/><br><br>
     Год выпуска:<input type="text" name="year_of_release"/><br><br>
-  Описание книги:<input type="text" name="description"/><br><br>
+    Описание книги:<input type="text" name="description"/><br><br>
     Имя пользователя:<input type="text" name="user"/><br><br>
-   <input type="submit" value="Добавить книгу"/>
+    <input type="submit" value="Добавить книгу"/>
 </form>
 </body>
 </html>
